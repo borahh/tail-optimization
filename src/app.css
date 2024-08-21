@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/** We have to use BEM to name our new classes , check ChatGpt **/
